@@ -5,7 +5,7 @@ import invariant from "tiny-invariant";
 import { marked } from "marked";
 
 export type Post = {
-	slug: string;
+  slug: string;
 	title: string;
 };
 
@@ -74,19 +74,3 @@ export async function createPost(post: NewPost) {
   )
   return getPost(post.slug);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
