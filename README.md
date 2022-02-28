@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Try using Remix - NgeRemix!
 
 - [Remix Docs](https://remix.run/docs)
 
